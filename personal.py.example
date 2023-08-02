@@ -1,0 +1,22 @@
+user_info = {
+    'first_name': "",
+    "last_name": "",
+    "mail": "",
+    "phone": ""
+}
+card_info = {
+    "first_name": "",
+    "last_name": "",
+    "state": "서울", # 서울, 부산, 대구, 인천, 광주, 울산, 대전, 세종, ㅇㅇ도
+    "city": "관악구",
+    "postalCode": "08826",
+    "street": "",
+    "street2": "",
+    "card_num": ["cardnumber1", "cardnumber2", "cardnumber3", "cardnumber4"],
+    "cardexpm": "mmm",
+    "cardexpy": "yy",
+    "cardpasswd2": "password_2digit",
+    "card_birth": "yymmdd",
+    "cardquota": 6 # 무이자
+}
+loc_zip = "08826"
